@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "949611916887",
+    "project_id": "pupils-de350",
+    "storage_bucket": "pupils-de350.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949611916887:android:e22de9d31b43844bf83d12",
+        "android_client_info": {
+          "package_name": "com.example.uyishi_fluterfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_HyMyZAzOUpNTZLrI3JjX3wlnUbo8HMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
